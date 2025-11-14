@@ -1,0 +1,43 @@
+/*
+CSS comment
+*/
+body{
+	background-color: #e1e1ea;
+	color: black;
+	text-align: center;
+}
+
+footer{
+	color: black;
+	text-align: center;
+	background-color: #dbdbdb;
+	border: 1px solid #b3b3b3;
+	font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+	color: black;
+	background-color: #dbdbdb;
+	border: 1px solid #b3b3b3;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.navbar-brand{
+	padding-left: 11px;
+}
+
+#r6{
+	padding-left: 200px;
+}
+
+h4{
+	font-weight: bold;
+}

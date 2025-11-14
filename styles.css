@@ -1,0 +1,57 @@
+	/*
+	css comment	
+	https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/107/posts/26488/final_image/41-space-scrolling-background850-2.jpg
+	https://wallpaper.dog/large/20459082.jpg
+	*/
+	body{
+		background-color: #82557f;
+		background-image: url("https://wallpaper.dog/large/20459082.jpg");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+
+	h1{
+		color: white;
+		text-align: center;
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
+		font-family: 'Diplomata SC', cursive;
+		font-family: 'Fredoka One', cursive;
+	}
+	
+	#numbers{
+		color: white;
+		text-align: center;
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
+		font-family: 'Diplomata SC', cursive;
+		font-family: 'Fredoka One', cursive;
+	}
+	
+	p{
+		padding-left: 200px;
+		padding-right: 200px;
+		color: white;
+	}
+	.main{
+		text-align: center;
+		color: white;
+	}
+	
+	footer{
+	color: black;
+	text-align: center;
+	background-color: black;
+	border: 1px solid #b3b3b3;
+	font-family: 'Open Sans', sans-serif;
+	
+	}
+	
+	nav{
+	color: black;
+	background-color: #dbdbdb;
+	border: 1px solid #b3b3b3;
+}
+	h2{
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+
